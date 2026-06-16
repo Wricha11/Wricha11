@@ -1,4 +1,4 @@
-# Hi — I’m a cybersecurity engineer working in GRC, incident response, and cloud security.
+# Hi, I’m a cybersecurity engineer working in GRC, incident response, and cloud security.
 
 Active U.S. defense industry experience across the full risk management framework (RMF) lifecycle — authorization-to-operate (ATO) packages, NIST 800-53 control implementation, POA&M management, and continuous monitoring. Background in U.S. Air Force cyber operations.
 
